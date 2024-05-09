@@ -1,0 +1,11 @@
+Create a GitHub Repository: If you haven't already, create a GitHub repository to host your assignment solution. Make sure your solution files are organized appropriately within the repository.
+Enable GitHub Pages: Go to your repository's settings tab, scroll down to the GitHub Pages section, and select the branch you want to use for GitHub Pages (typically the main branch). Choose the folder containing your solution as the source.
+Commit and Push: Commit your changes and push them to your GitHub repository.
+Access Your GitHub Pages URL: Once GitHub Pages is enabled and your changes are pushed, GitHub will provide you with a URL where your site is hosted. It will follow a pattern like http://yourgithubusername.github.io/repository-name.
+Make sure to replace yourgithubusername with your actual GitHub username and repository-name with the name of your repository. Additionally, append the folder name where your solution is located to the URL.
+
+For example, if your GitHub username is "exampleuser" and your repository name is "module3-solution" and your solution is in a folder named "solution", your GitHub Pages URL would be something like:
+
+http://exampleuser.github.io/module3-solution/solution
+
+Ensure that the URL correctly displays your solution
